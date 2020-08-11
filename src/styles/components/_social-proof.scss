@@ -9,34 +9,31 @@
   flex-wrap: wrap;
   margin: 0 auto;
   padding: 2em;
+  font-size: 18px;
   div {
     width: 4rem;
     height: 3rem;
     margin: 0.3em 1.5em;
+    background-size: contain;
   }
 }
 
 .facebook {
   background: url('../assets/social-proof/facebook.png') no-repeat center;
-  background-size:  100% 75%;
 }
 
 .google {
   background: url('../assets/social-proof/google.png') no-repeat center;
-  background-size:  100% 75%;
 }
 
 .uber {
   background: url('../assets/social-proof/uber.png') no-repeat center;
-  background-size:  100% 75%;
 }
 
 .apple {
   background: url('../assets/social-proof/airbnb.png') no-repeat center;
-  background-size: 100% 75%;
 }
 
 .twitter {
   background: url('../assets/social-proof/twitter.png') no-repeat center;
-  background-size:  100% 75%;
 }
